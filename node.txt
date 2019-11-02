@@ -9,3 +9,6 @@ ssr://MzUuMjI5LjE4MS4yMjk6MTk5NjU6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46VFdsamEyVj
 
 #Jaho_Los_Angeles
 ssr://MzQuOTQuMjAuMTY2OjE5OTY1Om9yaWdpbjpjaGFjaGEyMC1pZXRmOnBsYWluOlRXbGphMlY1VEdsaGJ6ZzEvP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU2T3YmZ3JvdXA9U21Gb2J3
+
+#Jaho_HongKong
+ss://Y2hhY2hhMjAtaWV0ZjpNaWNrZXlMaWFvODVAMzUuMjQxLjczLjEzNDoxOTk3MA
