@@ -18,3 +18,9 @@ ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWczQDM0Ljk2LjIyOS4xMzA6MzE3MTE#HongKong
 
 #Singapore
 ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWczQDM0Ljg3LjU2LjI0MTozMTcxMQ#Singapore
+
+#Los Angeles
+ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWczQDM1LjIzNS44Ni4xNjc6MzE3MTE
+
+#Tiawan1
+ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWczQDM0LjgwLjE5NS4yMzI6MzE3MTE
